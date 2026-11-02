@@ -1,0 +1,22 @@
+{
+ "n": 3065,
+ "start": "2015-01-01",
+ "end": "2026-09-30",
+ "n_latih": 2448,
+ "n_uji": 612,
+ "akhir_latih": "2024-05-27",
+ "mulai_uji": "2024-05-28",
+ "target": "IDR",
+ "prediktor": [
+  "MYR",
+  "THB",
+  "INR"
+ ],
+ "lags": 5,
+ "frac": 0.8,
+ "latih_min": 12472.715933894606,
+ "latih_maks": 16575.50140891762,
+ "uji_min": 15101.177891875566,
+ "uji_maks": 18176.860856130144,
+ "porsi_uji_di_luar_rentang_latih": 0.4542483660130719
+}
